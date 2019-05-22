@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "563295605256",
+    "firebase_url": "https://learnmaps-abbad.firebaseio.com",
+    "project_id": "learnmaps-abbad",
+    "storage_bucket": "learnmaps-abbad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563295605256:android:064484a442cdde51",
+        "android_client_info": {
+          "package_name": "com.example.learnmaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563295605256-7m9e7g00cfln1j91fj07nirth608qgo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVPpRUoWVFiXcddBdE5UjZRz0O4hmWKCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563295605256-7m9e7g00cfln1j91fj07nirth608qgo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
